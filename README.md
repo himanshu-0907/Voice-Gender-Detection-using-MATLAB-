@@ -1,5 +1,5 @@
 # Voice-Gender-Detection-using-MATLAB-
-MATLAB Project
+
 Hello everyone, Myself Himanshu Gupta, a B.Tech. Final Year student in NIT Allahabad.
 This project is based on Detecting the Gender using voice. I have used the concepts of FFT(Fast Fourier Transform) in this project to calculate the dominant frequency based on which the gender of voice is detected.
 It is a group project made by my team for the final assesment in DSP(Digital Signal Processing) Lab.
